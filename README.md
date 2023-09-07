@@ -16,6 +16,7 @@ Data to pull out
 8. product affinity (what products are most often bought together)
 9. return rate
 10. seasonal trends
+11. 
 
 
 
